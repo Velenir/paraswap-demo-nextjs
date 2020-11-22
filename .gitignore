@@ -32,3 +32,10 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# yalc
+.yalc
+yalc.lock
+
+# env
+.env.local
